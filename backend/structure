@@ -1,0 +1,17 @@
+civic-saathi-backend/
+├── server.js              ← main entry point
+├── .env                   ← your secret keys
+├── package.json           ← dependencies
+├── config/
+│   └── db.js              ← MongoDB connection
+├── models/
+│   ├── User.js            ← user schema
+│   └── Complaint.js       ← complaint schema
+├── routes/
+│   ├── auth.js            ← register & login
+│   └── complaints.js      ← submit & track
+├── middleware/
+│   └── auth.js            ← JWT protection
+└── utils/
+    ├── gemini.js          ← AI photo scanner
+    └── mailer.js          ← email sender
