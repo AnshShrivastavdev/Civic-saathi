@@ -48,3 +48,4 @@ The system uses AI-based image verification to check whether the uploaded image 
 🌍IMPACT<br>
 Civic Saathi aims to improve the public grievance system by making it easier for citizens to report problems and helping authorities respond more efficiently. The platform encourages active citizen participation and promotes better governance through technology.
 
+Hello everyone
